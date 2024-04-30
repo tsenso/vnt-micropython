@@ -1,0 +1,21 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "BLE",
+        "External Flash",
+        "WiFi"
+    ],
+    "images": [
+        "esp32_devkitc.jpg"
+    ],
+    "mcu": "esp32",
+    "product": "M5Stack Fire",
+    "thumbnail": "",
+    "url": "https://shop.m5stack.com/products/fire-iot-development-kit?variant=16804798169178",
+    "variants": {
+    },
+    "vendor": "M5Stack"
+}
